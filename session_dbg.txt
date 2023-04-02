@@ -1,0 +1,121 @@
+Session debug file created for writing. 
+----------------------------------------------------------------
+Session started at: 12/14/2021: Local time 19:16:16 043
+FSXPilot.exe Version: 3.3.1.0
+----------------------------------------------------------------
+
+There is  35 percent of memory in use.
+There are 25095216 total KB (24507.0 MB) of physical memory.
+There are 16105164 free  KB (15727.7 MB) of physical memory.
+There are 28765232 total KB (28091.0 MB) of paging file.
+There are 17039260 free  KB (16639.9 MB) of paging file.
+There are 2097024 total KB (2047.9 MB) of virtual memory.
+There are 1770316 free  KB (1728.8 MB) of virtual memory.
+There are 0 free  KB (0.0 MB) of extended memory.
+
+Program initialization .... 
+Hidden main ASAP window created. 
+fsplot.ini found in documents folder, ini path set to C:\Users\Rudolf\Documents\ASAP/fspilot.ini. 
+AIRAC sid file not indexed.
+70904.8 kB (70.9 MB) of memory allocated for 385352 lines in SID.
+AIRAC star file not indexed.
+59568.9 kB (59.6 MB) of memory allocated for 323744 lines in STAR.
+AIRAC apr file indexed.
+120832.6 kB (120.8 MB) of memory allocated for 559410 lines in APR.
+AIRAC apt file not indexed.
+1186.6 kB (1.2 MB) of memory allocated for 13484 lines in ICAO.
+AIRAC awy file not indexed.
+8798.4 kB (8.8 MB) of memory allocated for 99982 lines in AWY.
+AIRAC wpt file not indexed.
+10446.4 kB (10.4 MB) of memory allocated for 261160 lines in WPT.
+AIRAC vor file not indexed.
+608.0 kB (0.6 MB) of memory allocated for 4222 lines in VOR.
+AIRAC ndb file not indexed.
+749.1 kB (0.7 MB) of memory allocated for 5202 lines in NDB.
+AIRAC rwy file not indexed.
+4958.9 kB (5.0 MB) of memory allocated for 34437 lines in RW.
+35.3 kB (0.0 MB) of memory allocated for BOOKMARKS.
+294.9 kB (0.3 MB) of memory allocated for FIX.
+458.8 kB (0.5 MB) of memory allocated for Planes.
+458.8 kB (0.5 MB) of memory allocated for Helicopters.
+
+There is  35 percent of memory in use.
+There are 25095216 total KB (24507.0 MB) of physical memory.
+There are 16097316 free  KB (15720.0 MB) of physical memory.
+There are 28765232 total KB (28091.0 MB) of paging file.
+There are 16705824 free  KB (16314.3 MB) of paging file.
+There are 2097024 total KB (2047.9 MB) of virtual memory.
+There are 1440764 free  KB (1407.0 MB) of virtual memory.
+There are 0 free  KB (0.0 MB) of extended memory.
+
+Program initialization done in 672 ms.
+32 bit version. 
+Init XPLANE UDP port .... 
+Creating UDP socket.... 
+Connecting to UDP socket .... 
+Reading directories .... 
+FSPilot init OK!
+Errors have been initialized. 
+Starting init_adjusts .... 
+Adjusts have been initialized. 
+Reading NAV targets into memory ....
+4205 VOR targets read in 16 ms.
+5185 NDB targets read in 16 ms
+34420 runways read in 109 ms
+281216 sid's read in 937 ms
+245742 stars read in 719 ms
+370610 aprs read in 1531 ms
+13467 airports read in 31 ms
+261143 waypoints read in 516 ms
+99965 airways read in 219 ms
+76 user GPS targets read in 0 ms
+21 user BOOKMARKS read in 0 ms
+Init targets ....
+Reading local NAV targets into NAV index. Mustrestore: 0
+Waypoints added. Cnt: 1652 
+Fixes added. Cnt: 1652 
+VOR's added. Cnt: 1690 
+NDB's added. Cnt: 1720 
+Runways added. Cnt: 1830 
+ICAO's added. Cnt: 1884 
+AC's added. Cnt: 1884 
+Heli's added. Cnt: 1884 Arraymax: 128000 
+Loading hotkeys .... 
+Registering hotkeys ....
+Registering hotkeys done. 
+Loading aircraft database ...
+Operation lasted 657 ms. Done.
+Checking beta ... 
+Beta is 0. 
+19:16:22 558:          CMD: play sound signs
+FSXP Server thread: Starting up multi-threaded TCP server on port 27015
+FSXP Server thread: Evaluating IP address: 
+FSXP Server thread: Server IP address is : 192.168.1.8 
+FSXP Server thread: Waiting for client ...
+19:16:28 780:          CMD: play sound switch_small
+19:16:28 782:          CMD: play sound signs
+Starting init_adjusts .... 
+Shutdown procedure initiated .... 
+Releasing wheelbrakes . 
+19:16:30 681:          CMD: release wheelbrake
+Ending session. 
+Deleting SFML textures and images .... 
+Saving hotkeys .... 
+Unregistering hotkeys .... 
+Prestep timer killed. 
+fspilot.ini is updated. 
+X-Plane socket closed. 
+speechoutput pointer deleted. 
+speechrecognition pointer deleted. 
+Memory deallocated. 
+
+There is  36 percent of memory in use.
+There are 25095216 total KB (24507.0 MB) of physical memory.
+There are 16002976 free  KB (15627.9 MB) of physical memory.
+There are 28765232 total KB (28091.0 MB) of paging file.
+There are 16899624 free  KB (16503.5 MB) of paging file.
+There are 2097024 total KB (2047.9 MB) of virtual memory.
+There are 1598588 free  KB (1561.1 MB) of virtual memory.
+There are 0 free  KB (0.0 MB) of extended memory.
+
+Session_dbg file closed normally. 
